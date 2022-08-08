@@ -70,7 +70,7 @@ public class Student {
 	}
 
 	public int getTot() {
-		return tot;
+		return tot; 
 	}
 
 	public void setTot(int tot) {
